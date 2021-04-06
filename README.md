@@ -1,5 +1,7 @@
 # Welcome to the OpenVINO™ DL Workbench Feedback Forum
 
+[![Join the chat at https://gitter.im/dl-workbench/general](https://badges.gitter.im/dl-workbench/general.svg)](https://gitter.im/dl-workbench/general?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Deep Learning Workbench (DL Workbench) is an official UI environment of the OpenVINO™ toolkit.
 The DL Workbench enables you to:
 
